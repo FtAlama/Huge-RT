@@ -6,7 +6,7 @@
 /*   By: alama <alama@student.s19.be>               +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/11 18:45:02 by alama             #+#    #+#             */
-/*   Updated: 2025/04/15 21:21:31 by alama            ###   ########.fr       */
+/*   Updated: 2025/04/20 16:33:13 by alama            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,8 @@ typedef struct s_tuple
 
 t_tuple	*point(float x, float y, float z);
 t_tuple	*vector(float x, float y, float z);
+t_tuple	*add_tuple(t_tuple a, t_tuple b);
+t_tuple	*sub_tuple(t_tuple a, t_tuple b);
 void	print_tuple(t_tuple *t);
 
 #endif

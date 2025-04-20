@@ -6,7 +6,7 @@
 /*   By: alama <alama@student.s19.be>               +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/15 19:18:26 by alama             #+#    #+#             */
-/*   Updated: 2025/04/15 21:24:50 by alama            ###   ########.fr       */
+/*   Updated: 2025/04/20 16:31:03 by alama            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,5 +45,5 @@ void	print_tuple(t_tuple *t)
 		printf("vector\n");
 	else
 		printf("point\n");
-	printf("the cooredenate are : x - %f, y - %f, z - %f\n", t->x, t->y, t->z);
+	printf("the coordinate are : x : %f, y : %f, z : %f\n", t->x, t->y, t->z);
 }
