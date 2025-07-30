@@ -1,0 +1,23 @@
+# Camera	vec(pos)	vec(dir)		float(fov)
+# Ambient	float(ratio)												vec(color)
+# Light		vec(pos)	float(bright)									vec(color)
+
+# sphere	vec(pos)					float(diam)						vec(color)	|||		rota(axes, degrees)		pat(pattern color)	mat(material)	tex(textureFile) scale_tex(diam)
+# plane		vec(pos)	vec(dir)										vec(color)	|||	rota(axes, degrees) pat(pattern color)	mat(material)	tex(textureFile) 
+# cylinder	vec(pos)	vec(dir)		vec(diam)		float(height)	vec(color)	||| rota(axes, degrees)	pat(pattern color)	mat(material)	tex(textureFile) 
+# cone		vec(pos)	vec(dir)		float(diam)		float(height)	vec(color)	||| rota(axes, degrees)    pat(pattern color)	mat(material)	tex(textureFile) 
+# cube		vec(pos)	vec(dir)		vec(sizes)						vec(color)	|||	rota(axes, degrees) pat(pattern color)	mat(material)	tex(textureFile) 
+#
+
+C			0,0,0			0,0,1				100
+
+L			0,100,-5		1.														255,255,255
+
+A			0.5	255,255,255
+
+
+sp			-20,0,-3		20		240.955,82.11,98.91		mat(METAL3)	
+
+cu		0,0,50		0,1,0		30,20,1				95.115,103.02,140.25	rota(y, 15)	mat(GLASS2)
+
+sp		0,0,0		1000				255,0,0	tex(skeleton)

@@ -1,0 +1,13 @@
+# Camera	vec(pos)	vec(dir)		float(fov)
+# Ambient	float(ratio)												vec(color)
+# Light		vec(pos)	float(bright)									vec(color)
+
+# sphere	vec(pos)					float(diam)						vec(color)	|||		rota(axes, degrees)		pat(pattern color)	mat(material)	tex(textureFile) scale_tex(diam)
+# plane		vec(pos)	vec(dir)										vec(color)	|||	rota(axes, degrees) pat(pattern color)	mat(material)	tex(textureFile) 
+# cylinder	vec(pos)	vec(dir)		vec(diam)		float(height)	vec(color)	||| rota(axes, degrees)	pat(pattern color)	mat(material)	tex(textureFile) 
+# cone		vec(pos)	vec(dir)		float(diam)		float(height)	vec(color)	||| rota(axes, degrees)    pat(pattern color)	mat(material)	tex(textureFile) 
+# cube		vec(pos)	vec(dir)		vec(sizes)						vec(color)	|||	rota(axes, degrees) pat(pattern color)	mat(material)	tex(textureFile) 
+#
+#
+#
+# error : multiple camera

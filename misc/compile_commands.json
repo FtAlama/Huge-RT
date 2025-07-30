@@ -1,0 +1,1237 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/1_count_and_check/0_check_count.o",
+      "src/1_parsing/1_count_and_check/0_check_count.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/1_count_and_check/0_check_count.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/1_count_and_check/0_check_count.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/1_count_and_check/1_check_light_cam.o",
+      "src/1_parsing/1_count_and_check/1_check_light_cam.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/1_count_and_check/1_check_light_cam.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/1_count_and_check/1_check_light_cam.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/1_count_and_check/2_check_objects.o",
+      "src/1_parsing/1_count_and_check/2_check_objects.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/1_count_and_check/2_check_objects.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/1_count_and_check/2_check_objects.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/1_count_and_check/8_checking_utils.o",
+      "src/1_parsing/1_count_and_check/8_checking_utils.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/1_count_and_check/8_checking_utils.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/1_count_and_check/8_checking_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/1_count_and_check/9_checking_utils2.o",
+      "src/1_parsing/1_count_and_check/9_checking_utils2.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/1_count_and_check/9_checking_utils2.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/1_count_and_check/9_checking_utils2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/0_parse_world.o",
+      "src/1_parsing/2_parse_and_alloc/0_parse_world.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/0_parse_world.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/0_parse_world.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/1_parse_light_cam.o",
+      "src/1_parsing/2_parse_and_alloc/1_parse_light_cam.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/1_parse_light_cam.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/1_parse_light_cam.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/2_parse_objects/3_parse_obj_cy_co.o",
+      "src/1_parsing/2_parse_and_alloc/2_parse_objects/3_parse_obj_cy_co.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/2_parse_objects/3_parse_obj_cy_co.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/2_parse_objects/3_parse_obj_cy_co.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/2_parse_objects/2_parse_objects.o",
+      "src/1_parsing/2_parse_and_alloc/2_parse_objects/2_parse_objects.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/2_parse_objects/2_parse_objects.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/2_parse_objects/2_parse_objects.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/3_parse_optionals/0_parse_optionals.o",
+      "src/1_parsing/2_parse_and_alloc/3_parse_optionals/0_parse_optionals.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/3_parse_optionals/0_parse_optionals.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/3_parse_optionals/0_parse_optionals.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/3_parse_optionals/1_parse_rotation.o",
+      "src/1_parsing/2_parse_and_alloc/3_parse_optionals/1_parse_rotation.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/3_parse_optionals/1_parse_rotation.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/3_parse_optionals/1_parse_rotation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/3_parse_optionals/2_parse_patterns.o",
+      "src/1_parsing/2_parse_and_alloc/3_parse_optionals/2_parse_patterns.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/3_parse_optionals/2_parse_patterns.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/3_parse_optionals/2_parse_patterns.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/3_parse_optionals/4_parse_textures.o",
+      "src/1_parsing/2_parse_and_alloc/3_parse_optionals/4_parse_textures.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/3_parse_optionals/4_parse_textures.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/3_parse_optionals/4_parse_textures.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/3_parse_optionals/3_parse_materials.o",
+      "src/1_parsing/2_parse_and_alloc/3_parse_optionals/3_parse_materials.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/3_parse_optionals/3_parse_materials.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/3_parse_optionals/3_parse_materials.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/2_parse_and_alloc/9_parsing_utils.o",
+      "src/1_parsing/2_parse_and_alloc/9_parsing_utils.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/2_parse_and_alloc/9_parsing_utils.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/2_parse_and_alloc/9_parsing_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/3_parsing_utils/0_utils.o",
+      "src/1_parsing/3_parsing_utils/0_utils.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/3_parsing_utils/0_utils.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/3_parsing_utils/0_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/3_parsing_utils/1_rot_matrix_Rodrigues_formula.o",
+      "src/1_parsing/3_parsing_utils/1_rot_matrix_Rodrigues_formula.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/3_parsing_utils/1_rot_matrix_Rodrigues_formula.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/3_parsing_utils/1_rot_matrix_Rodrigues_formula.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/1_parsing/0_parse_argfile.o",
+      "src/1_parsing/0_parse_argfile.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/1_parsing/0_parse_argfile.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/1_parsing/0_parse_argfile.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/1_materials/1_glass/glass1_material.o",
+      "src/2_objects/1_materials/1_glass/glass1_material.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/1_materials/1_glass/glass1_material.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/1_materials/1_glass/glass1_material.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/1_materials/2_metal/metal1_material.o",
+      "src/2_objects/1_materials/2_metal/metal1_material.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/1_materials/2_metal/metal1_material.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/1_materials/2_metal/metal1_material.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/1_materials/0_material.o",
+      "src/2_objects/1_materials/0_material.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/1_materials/0_material.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/1_materials/0_material.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/2_patterns/simple_patterns/simple_patterns1.o",
+      "src/2_objects/2_patterns/simple_patterns/simple_patterns1.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/2_patterns/simple_patterns/simple_patterns1.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/2_patterns/simple_patterns/simple_patterns1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/2_patterns/simple_patterns/simple_patterns2.o",
+      "src/2_objects/2_patterns/simple_patterns/simple_patterns2.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/2_patterns/simple_patterns/simple_patterns2.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/2_patterns/simple_patterns/simple_patterns2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping1.o",
+      "src/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping1.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping1.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping2.o",
+      "src/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping2.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping2.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/2_patterns/uv_patterns/cube_mapping/cube_mapping2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/2_patterns/uv_patterns/map.o",
+      "src/2_objects/2_patterns/uv_patterns/map.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/2_patterns/uv_patterns/map.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/2_patterns/uv_patterns/map.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/2_patterns/uv_patterns/uv_patterns.o",
+      "src/2_objects/2_patterns/uv_patterns/uv_patterns.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/2_patterns/uv_patterns/uv_patterns.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/2_patterns/uv_patterns/uv_patterns.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/2_patterns/patterns.o",
+      "src/2_objects/2_patterns/patterns.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/2_patterns/patterns.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/2_patterns/patterns.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/0_create_objects.o",
+      "src/2_objects/0_create_objects.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/0_create_objects.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/0_create_objects.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/2_objects/3_textures/mlx_textures.o",
+      "src/2_objects/3_textures/mlx_textures.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/2_objects/3_textures/mlx_textures.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/2_objects/3_textures/mlx_textures.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/calc_colors/area_light.o",
+      "src/3_ray_tracing/calc_colors/area_light.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/calc_colors/area_light.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/calc_colors/area_light.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/calc_colors/phong_model.o",
+      "src/3_ray_tracing/calc_colors/phong_model.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/calc_colors/phong_model.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/calc_colors/phong_model.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/calc_colors/reflect_refract/fresnel_effect.o",
+      "src/3_ray_tracing/calc_colors/reflect_refract/fresnel_effect.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/calc_colors/reflect_refract/fresnel_effect.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/calc_colors/reflect_refract/fresnel_effect.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/calc_colors/reflect_refract/reflection_refraction.o",
+      "src/3_ray_tracing/calc_colors/reflect_refract/reflection_refraction.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/calc_colors/reflect_refract/reflection_refraction.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/calc_colors/reflect_refract/reflection_refraction.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/calc_colors/reflect_refract/refractive_index.o",
+      "src/3_ray_tracing/calc_colors/reflect_refract/refractive_index.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/calc_colors/reflect_refract/refractive_index.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/calc_colors/reflect_refract/refractive_index.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/calc_colors/color_at.o",
+      "src/3_ray_tracing/calc_colors/color_at.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/calc_colors/color_at.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/calc_colors/color_at.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/intersections/0_intersect_world.o",
+      "src/3_ray_tracing/intersections/0_intersect_world.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/intersections/0_intersect_world.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/intersections/0_intersect_world.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/intersections/2_intersect_cylinders.o",
+      "src/3_ray_tracing/intersections/2_intersect_cylinders.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/intersections/2_intersect_cylinders.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/intersections/2_intersect_cylinders.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/intersections/3_intersect_cones.o",
+      "src/3_ray_tracing/intersections/3_intersect_cones.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/intersections/3_intersect_cones.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/intersections/3_intersect_cones.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/intersections/5_intersection_utils.o",
+      "src/3_ray_tracing/intersections/5_intersection_utils.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/intersections/5_intersection_utils.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/intersections/5_intersection_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/intersections/4_intersect_cubes.o",
+      "src/3_ray_tracing/intersections/4_intersect_cubes.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/intersections/4_intersect_cubes.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/intersections/4_intersect_cubes.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/intersections/1_intersect_objects.o",
+      "src/3_ray_tracing/intersections/1_intersect_objects.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/intersections/1_intersect_objects.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/intersections/1_intersect_objects.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/normal_vectors/normals.o",
+      "src/3_ray_tracing/normal_vectors/normals.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/normal_vectors/normals.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/normal_vectors/normals.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/normal_vectors/normals2.o",
+      "src/3_ray_tracing/normal_vectors/normals2.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/normal_vectors/normals2.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/normal_vectors/normals2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/camera.o",
+      "src/3_ray_tracing/camera.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/camera.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/camera.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/3_ray_tracing/rays.o",
+      "src/3_ray_tracing/rays.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/3_ray_tracing/rays.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/3_ray_tracing/rays.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/matrices/inversions/inv_utils_mat3.o",
+      "src/8_math/matrices/inversions/inv_utils_mat3.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/matrices/inversions/inv_utils_mat3.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/matrices/inversions/inv_utils_mat3.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/matrices/inversions/inv_utils_mat4.o",
+      "src/8_math/matrices/inversions/inv_utils_mat4.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/matrices/inversions/inv_utils_mat4.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/matrices/inversions/inv_utils_mat4.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/matrices/inversions/inversion.o",
+      "src/8_math/matrices/inversions/inversion.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/matrices/inversions/inversion.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/matrices/inversions/inversion.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/matrices/transformations/rotations.o",
+      "src/8_math/matrices/transformations/rotations.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/matrices/transformations/rotations.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/matrices/transformations/rotations.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/matrices/transformations/transformations.o",
+      "src/8_math/matrices/transformations/transformations.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/matrices/transformations/transformations.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/matrices/transformations/transformations.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/matrices/matrices.o",
+      "src/8_math/matrices/matrices.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/matrices/matrices.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/matrices/matrices.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/matrices/view_transformation.o",
+      "src/8_math/matrices/view_transformation.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/matrices/view_transformation.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/matrices/view_transformation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/tuples/color.o",
+      "src/8_math/tuples/color.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/tuples/color.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/tuples/color.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/tuples/complex_tuple_operation.o",
+      "src/8_math/tuples/complex_tuple_operation.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/tuples/complex_tuple_operation.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/tuples/complex_tuple_operation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/tuples/operation_tuple.o",
+      "src/8_math/tuples/operation_tuple.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/tuples/operation_tuple.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/tuples/operation_tuple.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/8_math/tuples/tuple.o",
+      "src/8_math/tuples/tuple.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/8_math/tuples/tuple.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/8_math/tuples/tuple.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/9_utils/mlx/mlx_init.o",
+      "src/9_utils/mlx/mlx_init.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/9_utils/mlx/mlx_init.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/9_utils/mlx/mlx_init.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/9_utils/mlx/mlx_hook.o",
+      "src/9_utils/mlx/mlx_hook.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/9_utils/mlx/mlx_hook.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/9_utils/mlx/mlx_hook.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/9_utils/error_exit.o",
+      "src/9_utils/error_exit.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/9_utils/error_exit.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/9_utils/error_exit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/9_utils/floats.o",
+      "src/9_utils/floats.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/9_utils/floats.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/9_utils/floats.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/9_utils/random_num.o",
+      "src/9_utils/random_num.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/9_utils/random_num.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/9_utils/random_num.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/9_utils/free.o",
+      "src/9_utils/free.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/9_utils/free.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/9_utils/free.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/0_main.o",
+      "src/0_main.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/0_main.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/0_main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O3",
+      "-Iinclude",
+      "-Ilibs/libft/include",
+      "-Ilibs/minilibx_linux",
+      "-c",
+      "-o",
+      ".build/4_group/group.o",
+      "src/4_group/group.c"
+    ],
+    "directory": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT",
+    "file": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/src/4_group/group.c",
+    "output": "/home/alama/Documents/main_cursus/fourth_circle/mini-rt/miniRT/.build/4_group/group.o"
+  }
+]

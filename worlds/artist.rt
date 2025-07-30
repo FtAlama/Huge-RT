@@ -1,0 +1,35 @@
+C			2,3,-10			-0.2,-0.2,1				68
+
+# cylinder	vec(pos)	vec(dir)		vec(diam)		float(height)	vec(color)
+
+# bonus: 	rota(axes, degrees)	pat(pattern color)	mat(material)	tex(textureFile) 
+
+
+# L			-5,0,-10		1.														255,255,255 10
+
+L			0,2.5,-10		1.														255,255,255
+
+A	0.5	255,255,255
+
+
+# the world scene
+
+
+sp		0,0,0			100														255,255,255	rota(y, -154.6986)	tex(artist_workshop) NO SHADOW
+
+
+# the base
+sp	0,-4,0		2						255,255,255			pat(MAPPED_CHECKERS, 0,0,0)	mat(GLASS3)	
+
+# the sun
+sp	0.025,1,0.025		2																255,255,0		mat(GLASS3)	
+
+
+# the earth
+sp	4,0,0			0.5					255,255,255		rota(y, 114.59)	tex(atlas)
+
+
+cy	0.025,-0.5,0.025		0,1,0			0.1,1,0.1			1.2			255,204,25.5	mat(METAL1)
+
+# the table
+cu		0,-4,0		0,1,0			5,0.1,5							195,217,196		rota(y, 90)	tex(wood)	scale_tex(3, 3, 3)
